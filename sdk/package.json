@@ -1,0 +1,20 @@
+{
+  "name": "@stellarcheckout/sdk",
+  "version": "1.0.0",
+  "description": "Embeddable checkout SDK for StellarCheckout",
+  "main": "dist/index.js",
+  "module": "dist/index.esm.js",
+  "types": "dist/index.d.ts",
+  "files": ["dist"],
+  "scripts": {
+    "build": "rollup -c",
+    "dev": "rollup -c --watch"
+  },
+  "devDependencies": {
+    "@rollup/plugin-node-resolve": "15.2.3",
+    "@rollup/plugin-typescript": "11.1.6",
+    "rollup": "4.18.0",
+    "tslib": "2.6.3",
+    "typescript": "5.5.3"
+  }
+}
