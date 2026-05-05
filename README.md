@@ -1,4 +1,4 @@
-# ⚡ StellarCheckout
+# StellarCheckout
 
 **Open-source payment infrastructure for global commerce — powered by Stellar.**
 
