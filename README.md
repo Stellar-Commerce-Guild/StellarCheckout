@@ -69,7 +69,7 @@ Merchant gets webhook     →  payment.completed event fired
 ### 1. Clone & install
 
 ```bash
-git clone https://github.com/your-org/stellarcheckout.git
+git clone https://github.com/Stellar-Commerce-Guild/StellarCheckout.git
 cd stellarcheckout
 npm install
 ```
